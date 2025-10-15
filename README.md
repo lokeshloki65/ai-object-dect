@@ -1,10 +1,7 @@
 🤖 Real-Time AI Object Detection
 Experience the power of Artificial Intelligence directly in your browser! This cutting-edge web application uses your device's camera to identify and detect objects in real-time. No installation required.
 
-🎬 Live In Action
-See the magic for yourself! The image below showcases the application detecting various objects seamlessly.
 
-<a href="https://ibb.co/JCNgfJr"><img src="https://i.ibb.co/3kwQDZS/preview-combined.jpg" alt="preview-combined" width="100%"></a>
 
 ✨ Core Features
 👁️ Real-Time Detection: Instantly identifies objects through your live camera feed.
